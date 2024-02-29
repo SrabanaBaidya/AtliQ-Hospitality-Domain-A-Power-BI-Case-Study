@@ -48,16 +48,16 @@ Throughout the project, several valuable insights and skills were acquired:
 
 ## Important Insights
 
-Week 23 Excellence: 🌟 Week 23 shines with the highest average rating, reflecting exceptional service and guest satisfaction.
+**Week 23 Excellence:** 🌟 Week 23 shines with the highest average rating, reflecting exceptional service and guest satisfaction.
 
-Weekend Preference: 🏨 Weekends boast higher occupancy percentages, indicating a preference for leisure stays during the weekend.
+**Weekend Preference:** 🏨 Weekends boast higher occupancy percentages, indicating a preference for leisure stays during the weekend.
 
-Unknown Booking Mystery: 🕵️‍♂️ A significant number of bookings are labeled as 'Unknown' type, requiring further investigation to understand customer behavior and preferences.
+**Unknown Booking Mystery:** 🕵️‍♂️ A significant number of bookings are labeled as 'Unknown' type, requiring further investigation to understand customer behavior and preferences.
 
-Elite Rooms Challenge: 🛌 Despite having the most bookings, Elite type rooms face a substantial number of cancellations. A closer look is necessary to strategize improvements.
+**Elite Rooms Challenge:** 🛌 Despite having the most bookings, Elite type rooms face a substantial number of cancellations. A closer look is necessary to strategize improvements.
 
-Consistent Quality: 🌐 The overall average rating for all hotels stands at a commendable 3.62, indicating a consistent level of quality and service across the board.
+**Consistent Quality:** 🌐 The overall average rating for all hotels stands at a commendable 3.62, indicating a consistent level of quality and service across the board.
 
-Positive Revenue Trend: 💰 Total revenue reaches 572.9, surpassing target goals, contributing to the overall success of the revenue management strategy.
+**Positive Revenue Trend:** 💰 Total revenue reaches 572.9, surpassing target goals, contributing to the overall success of the revenue management strategy.
 
-City Insights: 🏙️ Delhi boasts the highest average occupancy percentage, while Mumbai leads in revenue generation. This suggests an opportunity to optimize pricing strategies in Delhi for increased revenue.
+**City Insights:** 🏙️ Delhi boasts the highest average occupancy percentage, while Mumbai leads in revenue generation. This suggests an opportunity to optimize pricing strategies in Delhi for increased revenue.
